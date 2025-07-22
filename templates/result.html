@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Analysis Result</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Analysis Results</h1>
+    
+    <p><strong>Matched Skills:</strong></p>
+    <ul class="matched-skills">
+      {% for skill in matched %}
+        <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+    
+    <p class="score">Skill Match Score: <strong>{{ score }} / {{ total }}</strong></p>
+    
+    <a class="back-button" href="/">Analyze Another Resume</a>
+  </div>
+</body>
+</html>
