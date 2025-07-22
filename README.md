@@ -1,4 +1,4 @@
-# 📝 Resume Analyzer
+# 📝 Resume Analyzer App
 
 A smart web application that analyzes PDF resumes and checks for the presence of key skills relevant to Machine Learning and Data Science roles. Built with **Flask**, this tool uses **Natural Language Processing (NLP)** techniques to tokenize resume content and match it against predefined industry-relevant keywords.
 
@@ -60,8 +60,8 @@ resume-analyzer/
 🔧 Local Setup
 - Clone the repo
 ``` bash
-git clone https://github.com/yourusername/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/sandipanrakshit34/Resume-Analyzer-App.git
+cd Resume-Analyzer-App
 ```
 - Install dependencies
 ```bash
