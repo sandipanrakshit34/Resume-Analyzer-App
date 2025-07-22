@@ -60,8 +60,8 @@ resume-analyzer/
 🔧 Local Setup
 - Clone the repo
 ``` bash
-git clone https://github.com/yourusername/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/sandipanrakshit34/Resume-Analyzer-App.git
+cd Resume-Analyzer-App
 ```
 - Install dependencies
 ```bash
