@@ -1,4 +1,4 @@
-# 📝 Resume Analyzer
+# 📝 Resume Analyzer App
 
 A smart web application that analyzes PDF resumes and checks for the presence of key skills relevant to Machine Learning and Data Science roles. Built with **Flask**, this tool uses **Natural Language Processing (NLP)** techniques to tokenize resume content and match it against predefined industry-relevant keywords.
 
