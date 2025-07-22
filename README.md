@@ -11,7 +11,7 @@ A smart web application that analyzes PDF resumes and checks for the presence of
 
 | Upload Page | Results Page |
 |-------------|--------------|
-| ![Upload](https://github.com/user-attachments/assets/4d2fc321-5e1e-4899-9d8d-71cb1b519c5f) | ![Result](https://github.com/user-attachments/assets/24a96905-ef4d-44e2-a566-37372445ca47) |
+| ![Upload](Assets/Resume-Analyzer-App2.png) | ![Result](Assets/resume_analyzer1.png) |
 
 
 ---
